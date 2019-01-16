@@ -1,0 +1,7 @@
+apiVersion: v1
+appVersion: 1.0
+version: 0.0.1
+description: Test application
+icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Beaker_font_awesome.svg/480px-Beaker_font_awesome.svg.png
+creationTimestamp: null
+name: nodered
